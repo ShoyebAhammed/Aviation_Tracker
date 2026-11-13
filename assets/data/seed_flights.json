@@ -1,0 +1,1054 @@
+{
+  "pagination": {
+    "limit": 12,
+    "offset": 0,
+    "count": 18,
+    "total": 18
+  },
+  "data": [
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "San Francisco International",
+        "timezone": "America/Los_Angeles",
+        "iata": "SFO",
+        "icao": "KSFO",
+        "terminal": "2",
+        "gate": "D11",
+        "delay": 15,
+        "scheduled": "2026-11-13T08:30:00+00:00",
+        "estimated": "2026-11-13T08:45:00+00:00",
+        "actual": "2026-11-13T08:46:00+00:00",
+        "estimated_runway": "2026-11-13T08:58:00+00:00",
+        "actual_runway": "2026-11-13T08:58:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "4",
+        "gate": "B24",
+        "baggage": "Carousel 3",
+        "delay": 10,
+        "scheduled": "2026-11-13T16:50:00+00:00",
+        "estimated": "2026-11-13T17:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "415",
+        "iata": "DL415",
+        "icao": "DAL415",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N842DN",
+        "iata": "B739",
+        "icao": "B739",
+        "icao24": "AB7412"
+      },
+      "live": {
+        "updated": "2026-11-13T12:15:00+00:00",
+        "latitude": 39.8561,
+        "longitude": -95.6892,
+        "altitude": 10668.0,
+        "direction": 86.5,
+        "speed_horizontal": 865.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "5",
+        "gate": "A10",
+        "delay": null,
+        "scheduled": "2026-11-13T10:15:00+00:00",
+        "estimated": "2026-11-13T10:15:00+00:00",
+        "actual": "2026-11-13T10:18:00+00:00",
+        "estimated_runway": "2026-11-13T10:30:00+00:00",
+        "actual_runway": "2026-11-13T10:30:00+00:00"
+      },
+      "arrival": {
+        "airport": "Dubai International",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": "B14",
+        "baggage": "Carousel 7",
+        "delay": null,
+        "scheduled": "2026-11-13T20:45:00+00:00",
+        "estimated": "2026-11-13T20:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      },
+      "flight": {
+        "number": "2",
+        "iata": "EK2",
+        "icao": "UAE2",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "A6-EVN",
+        "iata": "A388",
+        "icao": "A388",
+        "icao24": "8964AC"
+      },
+      "live": {
+        "updated": "2026-11-13T14:30:00+00:00",
+        "latitude": 36.142,
+        "longitude": 36.852,
+        "altitude": 11887.0,
+        "direction": 122.0,
+        "speed_horizontal": 910.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": "3",
+        "gate": "B3",
+        "delay": null,
+        "scheduled": "2026-11-13T09:20:00+00:00",
+        "estimated": "2026-11-13T09:20:00+00:00",
+        "actual": "2026-11-13T09:25:00+00:00",
+        "estimated_runway": "2026-11-13T09:40:00+00:00",
+        "actual_runway": "2026-11-13T09:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "Tokyo Haneda",
+        "timezone": "Asia/Tokyo",
+        "iata": "HND",
+        "icao": "RJTT",
+        "terminal": "3",
+        "gate": "114",
+        "baggage": "Carousel 2",
+        "delay": null,
+        "scheduled": "2026-11-13T17:05:00+00:00",
+        "estimated": "2026-11-13T17:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "634",
+        "iata": "SQ634",
+        "icao": "SIA634",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "9V-SMY",
+        "iata": "A359",
+        "icao": "A359",
+        "icao24": "76CDBA"
+      },
+      "live": {
+        "updated": "2026-11-13T13:40:00+00:00",
+        "latitude": 24.812,
+        "longitude": 125.123,
+        "altitude": 12192.0,
+        "direction": 42.0,
+        "speed_horizontal": 880.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Charles de Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "2E",
+        "gate": "K41",
+        "delay": 5,
+        "scheduled": "2026-11-13T06:45:00+00:00",
+        "estimated": "2026-11-13T06:50:00+00:00",
+        "actual": "2026-11-13T06:52:00+00:00",
+        "estimated_runway": "2026-11-13T07:05:00+00:00",
+        "actual_runway": "2026-11-13T07:05:00+00:00"
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "4",
+        "gate": "C12",
+        "baggage": "Carousel 1",
+        "delay": 2,
+        "scheduled": "2026-11-13T07:15:00+00:00",
+        "estimated": "2026-11-13T07:17:00+00:00",
+        "actual": "2026-11-13T07:18:00+00:00",
+        "estimated_runway": "2026-11-13T07:16:00+00:00",
+        "actual_runway": "2026-11-13T07:16:00+00:00"
+      },
+      "airline": {
+        "name": "Air France",
+        "iata": "AF",
+        "icao": "AFR"
+      },
+      "flight": {
+        "number": "1680",
+        "iata": "AF1680",
+        "icao": "AFR1680",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "F-HEPA",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "394A41"
+      },
+      "live": {
+        "updated": "2026-11-13T07:20:00+00:00",
+        "latitude": 51.47,
+        "longitude": -0.4543,
+        "altitude": 0.0,
+        "direction": 270.0,
+        "speed_horizontal": 25.0,
+        "speed_vertical": 0.0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Los Angeles International",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": "Tom Bradley",
+        "gate": "156",
+        "delay": null,
+        "scheduled": "2026-11-13T22:30:00+00:00",
+        "estimated": "2026-11-13T22:30:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Sydney Kingsford Smith",
+        "timezone": "Australia/Sydney",
+        "iata": "SYD",
+        "icao": "YSSY",
+        "terminal": "1",
+        "gate": "24",
+        "baggage": "Carousel 5",
+        "delay": null,
+        "scheduled": "2026-11-15T07:45:00+00:00",
+        "estimated": "2026-11-15T07:45:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      },
+      "flight": {
+        "number": "12",
+        "iata": "QF12",
+        "icao": "QFA12",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "VH-OQC",
+        "iata": "A388",
+        "icao": "A388",
+        "icao24": "7C4A52"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hamad International",
+        "timezone": "Asia/Qatar",
+        "iata": "DOH",
+        "icao": "OTHH",
+        "terminal": "1",
+        "gate": "C2",
+        "delay": 35,
+        "scheduled": "2026-11-13T08:10:00+00:00",
+        "estimated": "2026-11-13T08:45:00+00:00",
+        "actual": "2026-11-13T08:48:00+00:00",
+        "estimated_runway": "2026-11-13T09:02:00+00:00",
+        "actual_runway": "2026-11-13T09:02:00+00:00"
+      },
+      "arrival": {
+        "airport": "Frankfurt Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "FRA",
+        "icao": "EDDF",
+        "terminal": "1",
+        "gate": "B42",
+        "baggage": "Carousel 11",
+        "delay": 25,
+        "scheduled": "2026-11-13T13:30:00+00:00",
+        "estimated": "2026-11-13T13:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Qatar Airways",
+        "iata": "QR",
+        "icao": "QTR"
+      },
+      "flight": {
+        "number": "69",
+        "iata": "QR69",
+        "icao": "QTR69",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "A7-BAM",
+        "iata": "B77W",
+        "icao": "B77W",
+        "icao24": "06A1C2"
+      },
+      "live": {
+        "updated": "2026-11-13T12:00:00+00:00",
+        "latitude": 42.451,
+        "longitude": 21.841,
+        "altitude": 10972.0,
+        "direction": 312.0,
+        "speed_horizontal": 855.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "cancelled",
+      "departure": {
+        "airport": "O'Hare International",
+        "timezone": "America/Chicago",
+        "iata": "ORD",
+        "icao": "KORD",
+        "terminal": "1",
+        "gate": "C18",
+        "delay": null,
+        "scheduled": "2026-11-13T11:00:00+00:00",
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "San Francisco International",
+        "timezone": "America/Los_Angeles",
+        "iata": "SFO",
+        "icao": "KSFO",
+        "terminal": "3",
+        "gate": "E4",
+        "baggage": "Carousel 4",
+        "delay": null,
+        "scheduled": "2026-11-13T13:55:00+00:00",
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "United Airlines",
+        "iata": "UA",
+        "icao": "UAL"
+      },
+      "flight": {
+        "number": "204",
+        "iata": "UA204",
+        "icao": "UAL204",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N475UA",
+        "iata": "A320",
+        "icao": "A320",
+        "icao24": "A5CE01"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Tokyo Narita",
+        "timezone": "Asia/Tokyo",
+        "iata": "NRT",
+        "icao": "RJAA",
+        "terminal": "1",
+        "gate": "45",
+        "delay": null,
+        "scheduled": "2026-11-13T11:45:00+00:00",
+        "estimated": "2026-11-13T11:45:00+00:00",
+        "actual": "2026-11-13T11:50:00+00:00",
+        "estimated_runway": "2026-11-13T12:02:00+00:00",
+        "actual_runway": "2026-11-13T12:02:00+00:00"
+      },
+      "arrival": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": "1",
+        "gate": "C17",
+        "baggage": "Carousel 6",
+        "delay": null,
+        "scheduled": "2026-11-13T18:15:00+00:00",
+        "estimated": "2026-11-13T18:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "All Nippon Airways",
+        "iata": "NH",
+        "icao": "ANA"
+      },
+      "flight": {
+        "number": "801",
+        "iata": "NH801",
+        "icao": "ANA801",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "JA892A",
+        "iata": "B789",
+        "icao": "B789",
+        "icao24": "866A42"
+      },
+      "live": {
+        "updated": "2026-11-13T15:10:00+00:00",
+        "latitude": 14.599,
+        "longitude": 116.89,
+        "altitude": 11582.0,
+        "direction": 218.0,
+        "speed_horizontal": 890.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Amsterdam Schiphol",
+        "timezone": "Europe/Amsterdam",
+        "iata": "AMS",
+        "icao": "EHAM",
+        "terminal": "1",
+        "gate": "D4",
+        "delay": null,
+        "scheduled": "2026-11-13T09:00:00+00:00",
+        "estimated": "2026-11-13T09:00:00+00:00",
+        "actual": "2026-11-13T09:04:00+00:00",
+        "estimated_runway": "2026-11-13T09:18:00+00:00",
+        "actual_runway": "2026-11-13T09:18:00+00:00"
+      },
+      "arrival": {
+        "airport": "Charles de Gaulle",
+        "timezone": "Europe/Paris",
+        "iata": "CDG",
+        "icao": "LFPG",
+        "terminal": "2F",
+        "gate": "F29",
+        "baggage": "Carousel 2",
+        "delay": null,
+        "scheduled": "2026-11-13T10:20:00+00:00",
+        "estimated": "2026-11-13T10:15:00+00:00",
+        "actual": "2026-11-13T10:14:00+00:00",
+        "estimated_runway": "2026-11-13T10:12:00+00:00",
+        "actual_runway": "2026-11-13T10:12:00+00:00"
+      },
+      "airline": {
+        "name": "KLM Royal Dutch Airlines",
+        "iata": "KL",
+        "icao": "KLM"
+      },
+      "flight": {
+        "number": "1227",
+        "iata": "KL1227",
+        "icao": "KLM1227",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "PH-BCA",
+        "iata": "B738",
+        "icao": "B738",
+        "icao24": "485B12"
+      },
+      "live": {
+        "updated": "2026-11-13T10:20:00+00:00",
+        "latitude": 49.0097,
+        "longitude": 2.5479,
+        "altitude": 0.0,
+        "direction": 90.0,
+        "speed_horizontal": 20.0,
+        "speed_vertical": 0.0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "diverted",
+      "departure": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "5",
+        "gate": "B38",
+        "delay": 40,
+        "scheduled": "2026-11-13T06:15:00+00:00",
+        "estimated": "2026-11-13T06:55:00+00:00",
+        "actual": "2026-11-13T06:58:00+00:00",
+        "estimated_runway": "2026-11-13T07:15:00+00:00",
+        "actual_runway": "2026-11-13T07:15:00+00:00"
+      },
+      "arrival": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "7",
+        "gate": "1",
+        "baggage": "Carousel 1",
+        "delay": 80,
+        "scheduled": "2026-11-13T09:35:00+00:00",
+        "estimated": "2026-11-13T11:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "British Airways",
+        "iata": "BA",
+        "icao": "BAW"
+      },
+      "flight": {
+        "number": "117",
+        "iata": "BA117",
+        "icao": "BAW117",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "G-ZBKA",
+        "iata": "B789",
+        "icao": "B789",
+        "icao24": "406F1B"
+      },
+      "live": {
+        "updated": "2026-11-13T10:45:00+00:00",
+        "latitude": 44.883,
+        "longitude": -63.508,
+        "altitude": 3200.0,
+        "direction": 220.0,
+        "speed_horizontal": 450.0,
+        "speed_vertical": -15.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Hong Kong International",
+        "timezone": "Asia/Hong_Kong",
+        "iata": "HKG",
+        "icao": "VHHH",
+        "terminal": "1",
+        "gate": "62",
+        "delay": null,
+        "scheduled": "2026-11-13T23:55:00+00:00",
+        "estimated": "2026-11-13T23:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "3",
+        "gate": "18",
+        "baggage": "Carousel 8",
+        "delay": null,
+        "scheduled": "2026-11-14T05:40:00+00:00",
+        "estimated": "2026-11-14T05:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Cathay Pacific",
+        "iata": "CX",
+        "icao": "CPA"
+      },
+      "flight": {
+        "number": "251",
+        "iata": "CX251",
+        "icao": "CPA251",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "B-LQC",
+        "iata": "A359",
+        "icao": "A359",
+        "icao24": "78018B"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Hartsfield-Jackson Atlanta",
+        "timezone": "America/New_York",
+        "iata": "ATL",
+        "icao": "KATL",
+        "terminal": "South",
+        "gate": "A18",
+        "delay": 12,
+        "scheduled": "2026-11-13T11:20:00+00:00",
+        "estimated": "2026-11-13T11:32:00+00:00",
+        "actual": "2026-11-13T11:34:00+00:00",
+        "estimated_runway": "2026-11-13T11:46:00+00:00",
+        "actual_runway": "2026-11-13T11:46:00+00:00"
+      },
+      "arrival": {
+        "airport": "Miami International",
+        "timezone": "America/New_York",
+        "iata": "MIA",
+        "icao": "KMIA",
+        "terminal": "North",
+        "gate": "D28",
+        "baggage": "Carousel 4",
+        "delay": 8,
+        "scheduled": "2026-11-13T13:15:00+00:00",
+        "estimated": "2026-11-13T13:23:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      },
+      "flight": {
+        "number": "1432",
+        "iata": "DL1432",
+        "icao": "DAL1432",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N309DN",
+        "iata": "A321",
+        "icao": "A321",
+        "icao24": "A3402A"
+      },
+      "live": {
+        "updated": "2026-11-13T12:25:00+00:00",
+        "latitude": 29.124,
+        "longitude": -82.115,
+        "altitude": 9448.0,
+        "direction": 155.0,
+        "speed_horizontal": 810.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Munich Airport",
+        "timezone": "Europe/Berlin",
+        "iata": "MUC",
+        "icao": "EDDM",
+        "terminal": "2",
+        "gate": "G12",
+        "delay": 5,
+        "scheduled": "2026-11-13T10:40:00+00:00",
+        "estimated": "2026-11-13T10:45:00+00:00",
+        "actual": "2026-11-13T10:47:00+00:00",
+        "estimated_runway": "2026-11-13T10:58:00+00:00",
+        "actual_runway": "2026-11-13T10:58:00+00:00"
+      },
+      "arrival": {
+        "airport": "Newark Liberty International",
+        "timezone": "America/New_York",
+        "iata": "EWR",
+        "icao": "KEWR",
+        "terminal": "B",
+        "gate": "B51",
+        "baggage": "Carousel 3",
+        "delay": null,
+        "scheduled": "2026-11-13T14:15:00+00:00",
+        "estimated": "2026-11-13T14:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      },
+      "flight": {
+        "number": "412",
+        "iata": "LH412",
+        "icao": "DLH412",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "D-AIVD",
+        "iata": "A359",
+        "icao": "A359",
+        "icao24": "3C6504"
+      },
+      "live": {
+        "updated": "2026-11-13T13:00:00+00:00",
+        "latitude": 54.321,
+        "longitude": -28.456,
+        "altitude": 11277.0,
+        "direction": 260.0,
+        "speed_horizontal": 860.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": "3",
+        "gate": "A1",
+        "delay": null,
+        "scheduled": "2026-11-13T23:35:00+00:00",
+        "estimated": "2026-11-13T23:35:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "2",
+        "gate": "B32",
+        "baggage": "Carousel 5",
+        "delay": null,
+        "scheduled": "2026-11-14T05:55:00+00:00",
+        "estimated": "2026-11-14T05:55:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Singapore Airlines",
+        "iata": "SQ",
+        "icao": "SIA"
+      },
+      "flight": {
+        "number": "322",
+        "iata": "SQ322",
+        "icao": "SIA322",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "9V-SKU",
+        "iata": "A388",
+        "icao": "A388",
+        "icao24": "76CE35"
+      },
+      "live": null
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Incheon International",
+        "timezone": "Asia/Seoul",
+        "iata": "ICN",
+        "icao": "RKSI",
+        "terminal": "2",
+        "gate": "254",
+        "delay": null,
+        "scheduled": "2026-11-13T07:00:00+00:00",
+        "estimated": "2026-11-13T07:00:00+00:00",
+        "actual": "2026-11-13T07:05:00+00:00",
+        "estimated_runway": "2026-11-13T07:18:00+00:00",
+        "actual_runway": "2026-11-13T07:18:00+00:00"
+      },
+      "arrival": {
+        "airport": "Tokyo Narita",
+        "timezone": "Asia/Tokyo",
+        "iata": "NRT",
+        "icao": "RJAA",
+        "terminal": "1",
+        "gate": "21",
+        "baggage": "Carousel 3",
+        "delay": null,
+        "scheduled": "2026-11-13T09:20:00+00:00",
+        "estimated": "2026-11-13T09:18:00+00:00",
+        "actual": "2026-11-13T09:16:00+00:00",
+        "estimated_runway": "2026-11-13T09:12:00+00:00",
+        "actual_runway": "2026-11-13T09:12:00+00:00"
+      },
+      "airline": {
+        "name": "Korean Air",
+        "iata": "KE",
+        "icao": "KAL"
+      },
+      "flight": {
+        "number": "703",
+        "iata": "KE703",
+        "icao": "KAL703",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "HL8347",
+        "iata": "B77W",
+        "icao": "B77W",
+        "icao24": "71BF12"
+      },
+      "live": {
+        "updated": "2026-11-13T09:25:00+00:00",
+        "latitude": 35.772,
+        "longitude": 140.392,
+        "altitude": 0.0,
+        "direction": 160.0,
+        "speed_horizontal": 18.0,
+        "speed_vertical": 0.0,
+        "is_ground": true
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "Dubai International",
+        "timezone": "Asia/Dubai",
+        "iata": "DXB",
+        "icao": "OMDB",
+        "terminal": "3",
+        "gate": "A5",
+        "delay": null,
+        "scheduled": "2026-11-13T09:45:00+00:00",
+        "estimated": "2026-11-13T09:45:00+00:00",
+        "actual": "2026-11-13T09:50:00+00:00",
+        "estimated_runway": "2026-11-13T10:04:00+00:00",
+        "actual_runway": "2026-11-13T10:04:00+00:00"
+      },
+      "arrival": {
+        "airport": "Singapore Changi",
+        "timezone": "Asia/Singapore",
+        "iata": "SIN",
+        "icao": "WSSS",
+        "terminal": "1",
+        "gate": "C22",
+        "baggage": "Carousel 1",
+        "delay": null,
+        "scheduled": "2026-11-13T21:10:00+00:00",
+        "estimated": "2026-11-13T21:05:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      },
+      "flight": {
+        "number": "354",
+        "iata": "EK354",
+        "icao": "UAE354",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "A6-EEO",
+        "iata": "A388",
+        "icao": "A388",
+        "icao24": "89613F"
+      },
+      "live": {
+        "updated": "2026-11-13T14:45:00+00:00",
+        "latitude": 10.215,
+        "longitude": 85.34,
+        "altitude": 12496.0,
+        "direction": 115.0,
+        "speed_horizontal": 930.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "active",
+      "departure": {
+        "airport": "John F Kennedy International",
+        "timezone": "America/New_York",
+        "iata": "JFK",
+        "icao": "KJFK",
+        "terminal": "8",
+        "gate": "32",
+        "delay": 20,
+        "scheduled": "2026-11-13T12:00:00+00:00",
+        "estimated": "2026-11-13T12:20:00+00:00",
+        "actual": "2026-11-13T12:22:00+00:00",
+        "estimated_runway": "2026-11-13T12:40:00+00:00",
+        "actual_runway": "2026-11-13T12:40:00+00:00"
+      },
+      "arrival": {
+        "airport": "Los Angeles International",
+        "timezone": "America/Los_Angeles",
+        "iata": "LAX",
+        "icao": "KLAX",
+        "terminal": "4",
+        "gate": "42A",
+        "baggage": "Carousel 2",
+        "delay": 15,
+        "scheduled": "2026-11-13T15:25:00+00:00",
+        "estimated": "2026-11-13T15:40:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "American Airlines",
+        "iata": "AA",
+        "icao": "AAL"
+      },
+      "flight": {
+        "number": "3",
+        "iata": "AA3",
+        "icao": "AAL3",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "N101NN",
+        "iata": "A321",
+        "icao": "A321",
+        "icao24": "A0108A"
+      },
+      "live": {
+        "updated": "2026-11-13T14:10:00+00:00",
+        "latitude": 38.214,
+        "longitude": -92.418,
+        "altitude": 9753.0,
+        "direction": 255.0,
+        "speed_horizontal": 840.0,
+        "speed_vertical": 0.0,
+        "is_ground": false
+      }
+    },
+    {
+      "flight_date": "2026-11-13",
+      "flight_status": "landed",
+      "departure": {
+        "airport": "Zurich Airport",
+        "timezone": "Europe/Zurich",
+        "iata": "ZRH",
+        "icao": "LSZH",
+        "terminal": "1",
+        "gate": "A52",
+        "delay": null,
+        "scheduled": "2026-11-13T07:30:00+00:00",
+        "estimated": "2026-11-13T07:30:00+00:00",
+        "actual": "2026-11-13T07:33:00+00:00",
+        "estimated_runway": "2026-11-13T07:44:00+00:00",
+        "actual_runway": "2026-11-13T07:44:00+00:00"
+      },
+      "arrival": {
+        "airport": "Heathrow",
+        "timezone": "Europe/London",
+        "iata": "LHR",
+        "icao": "EGLL",
+        "terminal": "2",
+        "gate": "A18",
+        "baggage": "Carousel 6",
+        "delay": null,
+        "scheduled": "2026-11-13T08:20:00+00:00",
+        "estimated": "2026-11-13T08:16:00+00:00",
+        "actual": "2026-11-13T08:15:00+00:00",
+        "estimated_runway": "2026-11-13T08:12:00+00:00",
+        "actual_runway": "2026-11-13T08:12:00+00:00"
+      },
+      "airline": {
+        "name": "Swiss International Air Lines",
+        "iata": "LX",
+        "icao": "SWR"
+      },
+      "flight": {
+        "number": "316",
+        "iata": "LX316",
+        "icao": "SWR316",
+        "codeshared": null
+      },
+      "aircraft": {
+        "registration": "HB-JBA",
+        "iata": "BCS1",
+        "icao": "BCS1",
+        "icao24": "4B1801"
+      },
+      "live": {
+        "updated": "2026-11-13T08:25:00+00:00",
+        "latitude": 51.471,
+        "longitude": -0.457,
+        "altitude": 0.0,
+        "direction": 270.0,
+        "speed_horizontal": 15.0,
+        "speed_vertical": 0.0,
+        "is_ground": true
+      }
+    }
+  ]
+}
